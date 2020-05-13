@@ -9,10 +9,7 @@ public class Main {
 		
 		Locale.setDefault(Locale.US);
 		Scanner scanner = new Scanner(System.in);
-		
-		System.out.println("*** Income tax ***");
-		System.out.println();
-		
+				
 		System.out.print("Enter the income: ");
 		double income = scanner.nextDouble();
 		System.out.println();
